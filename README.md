@@ -2,7 +2,7 @@
 - Ho va ten : Nguyen Thi Thu Thi
 - MSSV : 4959030130
 - Lop : K49- GDMN
-- Chuyen nganh : Giao Duc Mam 
+- Chuyen nganh : Giao Duc Mam Non
 1
 
 ---
